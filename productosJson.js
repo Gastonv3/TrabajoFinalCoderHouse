@@ -1,0 +1,10 @@
+[{ "id": 1, "nombre": "IPAD PRO", "preciobase": 150000, "descuento": 0, "iva": 0, "preciofinal": 150000, "img": "img/ipad.png" },
+{ "id": 2, "nombre": "MACBOOK", "preciobase": 174000, "descuento": 0, "iva": 0, "preciofinal": 174000, "img": "img/macbook.png" },
+{ "id": 3, "nombre": "TV LED", "preciobase": 98000, "descuento": 0, "iva": 0, "preciofinal": 98000, "img": "img/tvled.png" },
+{ "id": 4, "nombre": "Iphone 13", "preciobase": 345000, "descuento": 0, "iva": 0, "preciofinal": 345000, "img": "img/iphone.png" },
+{ "id": 5, "nombre": "Galaxy TAB S3", "preciobase": 75000, "descuento": 0, "iva": 0, "preciofinal": 75000, "img": "img/tabletSamsung.png" },
+{ "id": 6, "nombre": "Lavarropa plus 5", "preciobase": 200000, "descuento": 0, "iva": 0, "preciofinal": 200000, "img": "img/lavadora.png" },
+{ "id": 7, "nombre": "Xbox", "preciobase": 180000, "descuento": 0, "iva": 0, "preciofinal": 180000, "img": "img/xboxx.png" },
+{ "id": 8, "nombre": "Nintendo Switch", "preciobase": 45000, "descuento": 0, "iva": 0, "preciofinal": 45000, "img": "img/switch.png" },
+{ "id": 9, "nombre": "Heladera plus 440", "preciobase": 77000, "descuento": 0, "iva": 0, "preciofinal": 77000, "img": "img/heladera.png" },
+{ "id": 10, "nombre": "Galaxy s21 5g", "preciobase": 165000, "descuento": 0, "iva": 0, "preciofinal": 165000, "img": "img/samsung.png" }]
